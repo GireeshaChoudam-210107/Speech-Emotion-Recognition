@@ -1,4 +1,4 @@
-([简体中文](./README_zh.md)|English|[日本語](./README_ja.md))
+((./README_zh.md)|English|(./README_ja.md))
 
 
 # Introduction
@@ -392,13 +392,6 @@ Description：
 `train_text.txt`
 
 
-```bash
-BAC009S0764W0121 甚至出现交易几乎停滞的情况
-BAC009S0916W0489 湖北一公司以员工名义贷款数十员工负债千万
-asr_example_cn_en 所有只要处理 data 不管你是做 machine learning 做 deep learning 做 data analytics 做 data science 也好 scientist 也好通通都要都做的基本功啊那 again 先先对有一些>也许对
-ID0012W0014 he tried to think how it could be
-```
-
 `train_wav.scp`
 
 
@@ -505,20 +498,3 @@ SenseVoice is part of the **FunAudioLLM** family:
 - Model weights are distributed separately and follow the terms on each model card. The official [SenseVoiceSmall model card](https://huggingface.co/FunAudioLLM/SenseVoiceSmall) links to the [FunASR Model Open Source License Agreement](https://github.com/modelscope/FunASR/blob/main/MODEL_LICENSE); other artifacts and conversions may list different terms, so check their model cards before use.
 - The maintainers have provided an [official SenseVoiceSmall license clarification](https://github.com/QwenAudio/SenseVoice/issues/334#issuecomment-5083546605) for the [FunASR Model Open Source License Agreement v1.1](https://github.com/modelscope/FunASR/blob/58830eca4012644aac0c3218c3ccc7d98f003fda/MODEL_LICENSE): Commercial use of the official SenseVoiceSmall weights is permitted when the model license is followed; Section 3 is a responsibility and risk disclaimer rather than an additional non-commercial restriction; and fine-tuned derivative weights may remain private. The Section 2.2 attribution and model-name requirements still apply. This clarification covers the official weights only, so check the terms for third-party conversions and bundled artifacts separately.
 
-<a name="Community"></a>
-# Community
-If you encounter problems in use, you can directly raise Issues on the github page.
-
-You can also scan the following DingTalk group QR code to join the community group for communication and discussion.
-
-|                          FunASR                          |
-|:--------------------------------------------------------:|
-| <img src="image/dingding_funasr.png" width="250"/></div> |
-
-<a href="https://star-history.dera.page/#QwenAudio/SenseVoice&modelscope/FunASR&QwenAudio/Fun-ASR&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=QwenAudio/SenseVoice,modelscope/FunASR,QwenAudio/Fun-ASR&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=QwenAudio/SenseVoice,modelscope/FunASR,QwenAudio/Fun-ASR&type=Date" />
-    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=QwenAudio/SenseVoice,modelscope/FunASR,QwenAudio/Fun-ASR&type=Date" />
-  </picture>
-</a>
